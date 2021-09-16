@@ -5,6 +5,9 @@
 
 ![Телеграмм Чат](./img/cover.jpg)
 
+
+### Наша классная [вики](https://github.com/lambdamai/datascience/wiki) с советами и гайдами
+
 # Лекции
 
 ## Python
