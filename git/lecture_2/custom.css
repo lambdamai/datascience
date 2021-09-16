@@ -1,0 +1,13 @@
+.reveal h2, .reveal h3{
+    font-family: "Open Sans Light";
+}
+
+.reveal p, .reveal li {
+    font-family: "Open Sans Light";
+    font-size: 14pt;
+}
+
+.reveal code, .reveal pre {
+    font-size: 14pt;
+    font-family: "Fira Code";
+}
