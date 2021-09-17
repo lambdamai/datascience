@@ -5,7 +5,6 @@
 
 ![Телеграмм Чат](./img/cover.jpg)
 
-
 ### Наша классная [вики](https://github.com/lambdamai/datascience/wiki) с советами и гайдами
 
 # Лекции
@@ -21,6 +20,10 @@
 - [Условные операторы](python/сonditional_operators.ipynb)
 - [Циклы](python/loop.ipynb)
 - [Самостоятельное задание #3](python/3_task.ipynb)
+- [Как не надо называть переменные](python/var_name.ipynb)
+- [Числа](python/number.ipynb)
+- [Строки](python/strings.ipynb)
+- [Самостоятельное задание #4](python/4_task.ipynb)
 
 ## Git
 
