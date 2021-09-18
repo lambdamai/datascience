@@ -29,8 +29,8 @@
 - [Кортежи](python/tuple.ipynb)
 - [Словари](python/dict.ipynb)
 - [Самостоятельное задание #6](python/6_task.ipynb)
-
-
+- [Множества](python/set.ipynb)
+- [Самостоятельное задание #7](python/7_task.ipynb)
 
 ## Git
 
