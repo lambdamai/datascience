@@ -31,6 +31,10 @@
 - [Самостоятельное задание #6](python/6_task.ipynb)
 - [Множества](python/set.ipynb)
 - [Самостоятельное задание #7](python/7_task.ipynb)
+- [Функции](python/function.ipynb)
+- [Исключения](python/exeption.ipynb)
+- [Работа с файлами](python/work_with_files.ipynb)
+- [Подключение модулей](python/library.ipynb)
 
 ## Git
 
