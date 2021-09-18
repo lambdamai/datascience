@@ -24,6 +24,13 @@
 - [Числа](python/number.ipynb)
 - [Строки](python/strings.ipynb)
 - [Самостоятельное задание #4](python/4_task.ipynb)
+- [Списки/Массивы](python/list.ipynb)
+- [Самостоятельное задание #5](python/5_task.ipynb)
+- [Кортежи](python/tuple.ipynb)
+- [Словари](python/dict.ipynb)
+- [Самостоятельное задание #6](python/6_task.ipynb)
+
+
 
 ## Git
 
