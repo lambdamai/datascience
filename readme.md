@@ -7,6 +7,8 @@
 
 ### Наша классная [вики](https://github.com/lambdamai/datascience/wiki) с советами и гайдами
 
+> Присоединиться к выполнению Домашнего задания можно по [ссылке](https://classroom.github.com/a/zU9liXqD)
+
 # Лекции
 
 ## Data Science
