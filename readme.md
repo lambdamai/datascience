@@ -9,6 +9,12 @@
 
 # Лекции
 
+## Data Science
+
+- [Numpy](ds/NumPy.ipynb)
+- [Функция одной переменной/Производная функции многих переменных](ds/NumPy.ipynb)
+- [Оптимизация функции одной и многих переменных](ds/Optimization.ipynb)
+
 ## Python
 
 - [Синтаксис](python/syntax.ipynb)
