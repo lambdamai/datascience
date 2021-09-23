@@ -7,6 +7,8 @@
 
 ### Наша классная [вики](https://github.com/lambdamai/datascience/wiki) с советами и гайдами
 
+> Присоединиться к выполнению Домашнего задания можно по [ссылке](https://classroom.github.com/a/zU9liXqD)
+
 # Лекции
 
 ## Data Science
@@ -14,6 +16,7 @@
 - [Numpy](ds/NumPy.ipynb)
 - [Функция одной переменной/Производная функции многих переменных](ds/Derivative.ipynb)
 - [Оптимизация функции одной и многих переменных](ds/Optimization.ipynb)
+- [Домашнее задание #1](ds/Homework_1.ipynb)
 
 ## Python
 
