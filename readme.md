@@ -14,6 +14,7 @@
 - [Numpy](ds/NumPy.ipynb)
 - [Функция одной переменной/Производная функции многих переменных](ds/Derivative.ipynb)
 - [Оптимизация функции одной и многих переменных](ds/Optimization.ipynb)
+- [Домашнее задание #1](ds/Homework_1.ipynb)
 
 ## Python
 
