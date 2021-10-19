@@ -19,6 +19,7 @@
 - [Домашнее задание #1](ds/Homework_1.ipynb) ([решение](ds/Homework_1_solution.ipynb))
 - [Pandas и DataFrame](ds/Pandas_1.ipynb)
 - [Домашнее задание #2](ds/Homework_2.ipynb)
+- [Pandas. Kaggle:Housing Prices Competition](ds/pandas_2.ipynb)
 
 ## Python
 
