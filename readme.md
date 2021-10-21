@@ -20,7 +20,7 @@
 - [Pandas и DataFrame](ds/Pandas_1.ipynb)
 - [Домашнее задание #2](ds/Homework_2.ipynb)
 - [Pandas. Kaggle:Housing Prices Competition](ds/pandas_2.ipynb)
-- [Линейная регрессия](ds/linreg.ipynb) ([презентация](ds/linreg.ipynb))
+- [Линейная регрессия](ds/linreg.ipynb) ([презентация](ds/linear_regression.pdf))
 - [Домашнее задание #3](ds/homework_3.ipynb)
 
 ## Python
