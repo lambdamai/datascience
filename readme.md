@@ -22,6 +22,7 @@
 - [Pandas. Kaggle:Housing Prices Competition](ds/pandas_2.ipynb)
 - [Линейная регрессия](ds/linreg.ipynb) ([презентация](ds/linear_regression.pdf))
 - [Домашнее задание #3](ds/homework_3.ipynb)
+- [Методы регуляризации линейных регрессий](ds/regularization.ipynb) ([запись стрима](https://www.youtube.com/watch?v=rrGLCDJD3VM))
 
 ## Python
 
