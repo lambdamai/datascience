@@ -1,13 +1,11 @@
 [![Телеграмм Канал](https://img.shields.io/badge/Join-Telegram%20Channel-0088cc)](https://t.me/lambdamai)
-[![Телеграмм Чат](https://img.shields.io/badge/Join-Telegram%20Chat-0088cc)](https://t.me/joinchat/01_ttlSQj3hjZTg6)
-[![Телеграмм Чат](https://img.shields.io/badge/Subscribe-YouTube-FF0000)](https://www.youtube.com/channel/UC8fGhHpoUm-1ZWITOM98N9A)
-[![Телеграмм Чат](https://img.shields.io/badge/Follow-Twitch-6441a5)](https://www.twitch.tv/lambdamai)
+[![Ютуб](https://img.shields.io/badge/Subscribe-YouTube-FF0000)](https://www.youtube.com/channel/UC8fGhHpoUm-1ZWITOM98N9A)
+[![Твич](https://img.shields.io/badge/Follow-Twitch-6441a5)](https://www.twitch.tv/lambdamai)
 
 ![Телеграмм Чат](./img/cover.jpg)
 
 ### Наша классная [вики](https://github.com/lambdamai/datascience/wiki) с советами и гайдами
 
-> Присоединиться к выполнению Домашнего задания можно по [ссылке](https://classroom.github.com/a/zU9liXqD)
 
 # Лекции
 
@@ -17,11 +15,16 @@
 - [Функция одной переменной/Производная функции многих переменных](ds/Derivative.ipynb)
 - [Оптимизация функции одной и многих переменных](ds/Optimization.ipynb)
 - [Домашнее задание #1](ds/Homework_1.ipynb) ([решение](ds/Homework_1_solution.ipynb))
+- [Вероятности](ds/probability.ipynb)
+- [Вероятности. Домащнее задание #2 (easy)](ds/probability_hw.ipynb)
+
 - [Pandas и DataFrame](ds/Pandas_1.ipynb)
-- [Домашнее задание #2](ds/Homework_2.ipynb)
+- [Pandas и DataFrame. Домашнее задание #3 (easy)](ds/Pandas_1_hw.ipynb)
+- [Pandas и DataFrame. Домашнее задание #3 (hard)](ds/Homework_2.ipynb)
+
 - [Pandas. Kaggle:Housing Prices Competition](ds/pandas_2.ipynb)
 - [Линейная регрессия](ds/linreg.ipynb) ([презентация](ds/linear_regression.pdf))
-- [Домашнее задание #3](ds/homework_3.ipynb)
+- [Домашнее задание #4](ds/homework_3.ipynb)
 - [Методы регуляризации линейных регрессий](ds/regularization.ipynb) ([запись стрима](https://www.youtube.com/watch?v=rrGLCDJD3VM))
 
 ## Python
@@ -55,7 +58,3 @@
 
 - [1 Часть](git/lecture_1/README.md)
 - [2 Часть](git/lecture_2/README.md)
-
-
-
-
