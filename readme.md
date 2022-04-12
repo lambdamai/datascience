@@ -17,12 +17,11 @@
 - [Домашнее задание #1](ds/Homework_1.ipynb) ([решение](ds/Homework_1_solution.ipynb))
 - [Вероятности](ds/probability.ipynb)
 - [Вероятности. Домащнее задание #2 (easy)](ds/probability_hw.ipynb)
-
 - [Pandas и DataFrame](ds/Pandas_1.ipynb)
 - [Pandas и DataFrame. Домашнее задание #3 (easy)](ds/Pandas_1_hw.ipynb)
 - [Pandas и DataFrame. Домашнее задание #3 (hard)](ds/Homework_2.ipynb)
-
 - [Pandas. Kaggle:Housing Prices Competition](ds/pandas_2.ipynb)
+- [Pandas и DataFrame. Домашнее задание #4 (easy)](ds/pandas_2_hw.ipynb)
 - [Линейная регрессия](ds/linreg.ipynb) ([презентация](ds/linear_regression.pdf))
 - [Домашнее задание #4](ds/homework_3.ipynb)
 - [Методы регуляризации линейных регрессий](ds/regularization.ipynb) ([запись стрима](https://www.youtube.com/watch?v=rrGLCDJD3VM))
