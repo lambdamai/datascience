@@ -53,6 +53,8 @@
 - [Работа с файлами](python/work_with_files.ipynb)
 - [Подключение модулей](python/library.ipynb)
 
+## ООП
+
 ## Git
 
 - [1 Часть](git/lecture_1/README.md)
