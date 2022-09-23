@@ -54,8 +54,12 @@
 - [Подключение модулей](python/library.ipynb)
 
 ## ООП
-- [ООП и SOLID](oop/oop.ipynb)
+- [ООП и SOLID](oop/opp.ipynb)
 - [Лабораторная работа #1](oop/Лабораторная_работа_#1.ipynb)
+- [Python и ООП](oop/python_oop.ipynb)
+- [ООП примеры](oop/oop_example.ipynb)
+- [Обработка ошибок и исключений](oop/exeption.ipynb)
+
 
 ## Git
 
