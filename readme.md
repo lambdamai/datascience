@@ -54,11 +54,19 @@
 - [Подключение модулей](python/library.ipynb)
 
 ## ООП
-- [ООП и SOLID](oop/opp.ipynb)
-- [Лабораторная работа #1](oop/Лабораторная_работа_#1.ipynb)
+- [ООП и SOLID](oop/oop.ipynb)
+- [Лабораторная работа #1](oop/Лабораторная_работа_1.ipynb)
 - [Python и ООП](oop/python_oop.ipynb)
 - [ООП примеры](oop/oop_example.ipynb)
 - [Обработка ошибок и исключений](oop/exeption.ipynb)
+
+## NLP
+- [GPT для чайников: от токенизации до файнтюнинга](nlp/GPT_introduction.ipynb) 
+
+## CV
+### Object Detection
+- [Файнтюнинг DETR на собственном датасете](cv/detr/detr_finetuning_custom_dataset.ipynb)
+- [DETR: Инференс и визуализация](cv/detr/detr_minimal_example.ipynb)
 
 
 ## Git
