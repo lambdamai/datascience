@@ -59,6 +59,11 @@
 - [Python и ООП](oop/python_oop.ipynb)
 - [ООП примеры](oop/oop_example.ipynb)
 - [Обработка ошибок и исключений](oop/exeption.ipynb)
+- [Паттерны](oop/patterns.ipynb)
+- [Порождающие паттерны](oop/creational-patterns.ipynb)
+- - [Фабричный метод](oop/creational-patterns.ipynb#Фабричный-метод)
+- - [Абстрактная фабрика](oop/creational-patterns.ipynb#Абстрактная-фабрика)
+- - [Строитель](oop/creational-patterns.ipynb#Строитель)
 
 ## NLP
 - [GPT для чайников: от токенизации до файнтюнинга](nlp/GPT_introduction.ipynb) 

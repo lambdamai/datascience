@@ -1,2 +1,5 @@
 .idea
 .ipynb_checkpoints
+datasets
+results
+trained_model
